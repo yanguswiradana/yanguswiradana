@@ -24,7 +24,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi, I'm Wira 👋</h1>
+<h4 align="center">Junior Web Developer | AI Enthusiast</h4>
 
 ###
 
@@ -33,45 +34,17 @@
 ###
 
 <p align="left">
-  I'm Wira<br><br>
-  - 🔭 I'm currently working as a <b>Junior Web Developer</b><br>
-  - 📚 I'm currently learning <b>AI & building side projects</b><br>
-  - ⚡ I have a deep passion for Artificial Intelligence, building beautiful functional websites, and integrating AI-driven solutions to create innovative digital experiences.
+  I am a dedicated <b>Junior Web Developer</b> based in Bali, Indonesia, with a deep passion for <b>Artificial Intelligence</b>. I thrive on building beautiful, highly functional web applications and actively exploring ways to integrate AI-driven solutions into modern digital experiences.
+  <br><br>
+  - 🔭 <b>Current Focus:</b> Developing dynamic web interfaces and leveraging AI for practical solutions.<br>
+  - 📚 <b>Currently Learning:</b> Advanced React, Next.js, and Fullstack Architectures.<br>
+  - 💬 <b>Ask me about:</b> Frontend Development, UI/UX optimization, and modern web frameworks.<br>
+  - ⚡ <b>Motto:</b> <i>"To Be and To Give."</i>
 </p>
 
 ###
 
-<h3 align="left">💼 Experience</h3>
-
-###
-
-<p align="left">
-  <b>Freelance Web Developer</b><br>
-  <i>Jan 2024 — Present</i><br>
-  Developing custom web applications and internal information systems, implementing interactive admin dashboards for data visualization and reporting automation.
-</p>
-
-<p align="left">
-  <b>Collaborative Frontend Developer & Treasurer</b> @ Bajra Media<br>
-  <i>Jul 2023 — Dec 2023</i><br>
-  Collaborated within a digital product team to optimize web interface user experience, focusing on frontend bug fixes and responsive layout improvements.
-</p>
-
-<p align="left">
-  <b>Club President</b> @ INSTIKI Body Healthy & Body Building Club<br>
-  <i>Jan 2022 — Dec 2023</i><br>
-  Led the campus health and fitness student organization, directed the executive board and 60+ active members in organizing routine campus fitness programs.
-</p>
-
-<p align="left">
-  <b>System Support & QA Intern</b> @ PT Balisoft Lintasmedia<br>
-  <i>Jan 2021 — Jun 2021</i><br>
-  Conducted functional testing on various internal software products and assisted in daily system support operations to ensure smooth application workflows.
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
