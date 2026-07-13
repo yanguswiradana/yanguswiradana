@@ -11,10 +11,9 @@
   <a href="https://www.instagram.com/_wynaw_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-<a href="mailto:yanguswiradana@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
-
+  <a href="mailto:yanguswiradana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -29,11 +28,46 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Wira<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I learn new things about tech</p>
+<p align="left">
+  I'm Wira<br><br>
+  - 🔭 I'm currently working as a <b>Junior Web Developer</b><br>
+  - 📚 I'm currently learning <b>AI & building side projects</b><br>
+  - ⚡ I have a deep passion for Artificial Intelligence, building beautiful functional websites, and integrating AI-driven solutions to create innovative digital experiences.
+</p>
+
+###
+
+<h3 align="left">💼 Experience</h3>
+
+###
+
+<p align="left">
+  <b>Freelance Web Developer</b><br>
+  <i>Jan 2024 — Present</i><br>
+  Developing custom web applications and internal information systems, implementing interactive admin dashboards for data visualization and reporting automation.
+</p>
+
+<p align="left">
+  <b>Collaborative Frontend Developer & Treasurer</b> @ Bajra Media<br>
+  <i>Jul 2023 — Dec 2023</i><br>
+  Collaborated within a digital product team to optimize web interface user experience, focusing on frontend bug fixes and responsive layout improvements.
+</p>
+
+<p align="left">
+  <b>Club President</b> @ INSTIKI Body Healthy & Body Building Club<br>
+  <i>Jan 2022 — Dec 2023</i><br>
+  Led the campus health and fitness student organization, directed the executive board and 60+ active members in organizing routine campus fitness programs.
+</p>
+
+<p align="left">
+  <b>System Support & QA Intern</b> @ PT Balisoft Lintasmedia<br>
+  <i>Jan 2021 — Jun 2021</i><br>
+  Conducted functional testing on various internal software products and assisted in daily system support operations to ensure smooth application workflows.
+</p>
 
 ###
 
@@ -46,15 +80,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
@@ -62,12 +108,18 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-
+###
 
 <!--<img src="https://raw.githubusercontent.com/yanguswiradana/yanguswiradana/output/snake.svg" alt="Snake animation" /> -->
 
