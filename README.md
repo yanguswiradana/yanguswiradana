@@ -144,30 +144,7 @@ I'm a junior web developer based in **Bali, Indonesia** who loves turning ideas 
 
 ---
 
-## 💼 Experience
 
-| Period | Role | Company / Organization |
-|--------|------|----------------------|
-| 2024 – Present | Freelance Web Developer | Self-employed (Remote) |
-| 2023 – Present | Frontend Developer & Treasurer | Bajra Media (Remote) |
-| Jul 2025 – Jul 2026 | Club President | INSTIKI Body Healthy & Body Building Club |
-| 2026 | Publication & Technical Operator | Inkubator Bisnis INSTIKI (IDEASI 2026) |
-| Mar 2023 – Aug 2023 | System Support & QA Intern | PT Balisoft Lintasmedia |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanguswiradana&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yanguswiradana&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanguswiradana/yanguswiradana/output/github-snake-dark.svg" />
