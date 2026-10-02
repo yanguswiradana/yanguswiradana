@@ -7,7 +7,7 @@
   <h1>I Wayan Agus Wiradana</h1>
 
   <p>
-    <strong>Junior Web Developer</strong> · <strong>AI Enthusiast</strong> · Denpasar, Bali 🌴
+    <strong>Junior Web Developer</strong> · <strong>AI Enthusiast</strong> · Gianyar, Bali 🌴
   </p>
 
   <p>
@@ -80,7 +80,7 @@ I'm a junior web developer based in **Bali, Indonesia** who loves turning ideas 
 
 - 🔭 **Currently:** Building web applications & exploring AI integration
 - 📚 **Learning:** Advanced fullstack architectures & AI/ML
-- 💬 **Ask me about:** React, Next.js, Astro, Laravel, and UI/UX
+- 💬 **Ask me about:** AI & Linux
 - ⚡ **Motto:** *"To Be and To Give."*
 
 ---
