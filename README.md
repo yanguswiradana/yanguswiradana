@@ -7,7 +7,7 @@
   <h1>I Wayan Agus Wiradana</h1>
 
   <p>
-    <strong>Junior Web Developer</strong> · <strong>AI Enthusiast</strong> · Gianyar, Bali 🌴
+    <strong>Junior Web Developer</strong> · <strong>AI Enthusiast</strong> · <strong>Linux Enthusiast</strong> · Gianyar, Bali 🌴
   </p>
 
   <p>
